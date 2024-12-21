@@ -15,6 +15,8 @@ The smart contract powers the entire game, ensuring transparency, fairness, and 
 
 ## Contract Address
 0xDc66654E09937507274842d5e64E3782e1d0F77b
+![Screenshot 2024-12-21 142803](https://github.com/user-attachments/assets/310c8c64-e88b-4d93-9ff8-90922b19a3f5)
+
 ## Project Vision
 Our vision is to create a competitive environment where history buffs can prove their knowledge while earning rewards. We aim to integrate education with gaming in a seamless, decentralized way through the power of blockchain technology. This project is not just a game but a learning platform where players can improve their knowledge of history while earning GameFi tokens that can be used for more gameplay, virtual items, or redeemed for tangible rewards.
 
