@@ -1,8 +1,3 @@
-Sure! Below is a more detailed **`README.md`** file for the "History Quiz Battles with GameFi Mechanics" project.
-
----
-
-```markdown
 # History Quiz Battles with GameFi Mechanics
 
 ## Project Title
